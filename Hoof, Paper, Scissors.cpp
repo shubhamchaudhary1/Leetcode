@@ -1,10 +1,3 @@
-// Problem: Problem 2. Hoof, Paper, Scissors
-// Contest: USACO - USACO 2017 January Contest, Gold
-// URL: http://www.usaco.org/index.php?page=viewproblem2&cpid=694
-// Memory Limit: 256 MB
-// Time Limit: 4000 ms
-// 
-// Powered by CP Editor (https://cpeditor.org)
 #include<bits/stdc++.h>
 #define int long long
 using namespace std;
